@@ -1,39 +1,59 @@
-# 🤖 NeuraChat – AI Chatbot App  
-*(MERN + Google Gemini + ImageKit + Stripe)*  
+# 💬 NeuraChat – AI Chatbot Application (MERN + Google Gemini + ImageKit + Stripe)
 
-NeuraChat is a **full-stack AI chatbot application** built with the MERN stack (MongoDB, Express.js, React.js, Node.js).  
-It allows users to:  
-
-- ✍️ Generate AI-powered text content using **Google Gemini**  
-- 🖼️ Create AI-generated images via **ImageKit**  
-- 💳 Purchase credits securely through **Stripe** payment gateway  
-- 🔐 Sign up / log in with authentication  
-- 🌐 Deploy seamlessly on the cloud  
+NeuraChat is a **full-stack AI chatbot application** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
+It allows users to generate AI-powered text and images, purchase credits securely, and experience a seamless full-stack AI platform.
 
 ---
 
-## ✨ Features  
+## ✨ Key Features
 
-- 🔑 User authentication (JWT)  
-- 💬 AI chatbot (text generation via Google Gemini)  
-- 🖼️ AI image generator (ImageKit integration)  
-- 💳 Credit-based system with Stripe payments  
-- 🖥️ Full-stack MERN app with secure backend  
-- ☁️ Deployable using Vercel / Render / MongoDB Atlas  
+- 🔑 **User Authentication:** Secure login and signup using JWT  
+- 💬 **AI Chatbot:** Generate intelligent AI responses with **Google Gemini API**  
+- 🖼️ **AI Image Generator:** Create AI-generated images through **ImageKit**  
+- 💳 **Credit-Based System:** Purchase credits securely via **Stripe**  
+- 🖥️ **Full-Stack MERN App:** Secure backend, responsive frontend, and scalable deployment  
+- ☁️ **Cloud Deployment:** Deployed using **Vercel**, **Render**, and **MongoDB Atlas**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-**Frontend:** React.js, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB (Atlas)  
-**AI Models:** Google Gemini (text), ImageKit (images)  
-**Payments:** Stripe  
-**Deployment:** Vercel, Render, MongoDB Atlas  
+| Category | Technology |
+|-----------|-------------|
+| **Frontend** | React.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB (Atlas) |
+| **AI Models** | Google Gemini (Text), ImageKit (Images) |
+| **Payments** | Stripe |
+| **Authentication** | JWT |
+| **Deployment** | Vercel (Frontend), Render (Backend), MongoDB Atlas |
 
+---
 
+## 🌐 Live Demo
 
+🔗 **[View App](https://neura-chat.vercel.app)**
 
-<img width="1365" height="590" alt="image" src="https://github.com/user-attachments/assets/8e769007-ffba-40f5-82e8-e5f491ccb021" />
+---
+
+## 📸 Screenshot
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e769007-ffba-40f5-82e8-e5f491ccb021" width="85%" alt="NeuraChat App Screenshot">
+</p>
+
+---
+
+## 📚 About
+
+This project demonstrates how to combine **AI APIs, payment systems, and image processing tools**  
+to build a scalable, production-ready **AI chatbot and content generation platform**.
+
+---
+
+## 👨‍💻 Author
+
+**Jagrit**  
+🎓 MTech Student | 💻 Full-Stack Developer | 🤖 AI & Web Enthusiast  
+
 
