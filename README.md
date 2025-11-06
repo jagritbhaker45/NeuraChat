@@ -32,15 +32,16 @@ It allows users to generate AI-powered text and images, purchase credits securel
 
 ## 🌐 Live Demo
 
-🔗 **[View App](https://neura-chat.vercel.app)**
+🔗 **[View App](neura-chat-frontend.vercel.app)**
 
 ---
 
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e769007-ffba-40f5-82e8-e5f491ccb021" width="85%" alt="NeuraChat App Screenshot">
+  <img src="https://github.com/user-attachments/assets/f3b9eb35-ff26-4645-b10d-0103586731cb" width="85%" alt="NeuraChat App Screenshot">
 </p>
+
 
 ---
 
