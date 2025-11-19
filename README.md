@@ -1,4 +1,4 @@
-# 💬 NeuraChat – AI Chatbot Application 
+#  NeuraChat – AI Chatbot Application 
 
 NeuraChat is a full-stack AI chatbot application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
 It allows users to generate AI-powered text and images, purchase credits securely, and interact with a modern, responsive AI-driven platform.
@@ -38,9 +38,13 @@ It allows users to generate AI-powered text and images, purchase credits securel
 
 ## 📸 Screenshot
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f3b9eb35-ff26-4645-b10d-0103586731cb" width="85%" alt="NeuraChat Screenshot">
-</p>
+### Chat Interface
+<img width="1363" height="602" alt="Screenshot 2025-11-19 171033" src="https://github.com/user-attachments/assets/5a2700e3-b251-47d3-a268-cb03d5d7a198" />
+
+### Buy Credits / Stripe Checkout
+<img width="1361" height="605" alt="Screenshot 2025-11-19 171106" src="https://github.com/user-attachments/assets/7bc7a9ca-36f6-45e5-8c25-0c41ef6096e6" />
+
+
 
 ---
 
@@ -54,6 +58,5 @@ It demonstrates full-stack development skills, API integration, and modern UI/UX
 
 ## 👨‍💻 Author
 
-**Jagrit**  
-M.Tech in Computer Science  
+**Jagrit**    
 Full-Stack Developer • AI & Web Development Enthusiast
