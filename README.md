@@ -5,7 +5,7 @@ It allows users to generate AI-powered text and images, purchase credits securel
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **User Authentication:** Secure login and signup using JWT  
 - **AI Chatbot:** Generate intelligent, context-aware responses using **Google Gemini API**  
@@ -16,7 +16,7 @@ It allows users to generate AI-powered text and images, purchase credits securel
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category        | Technology                                       |
 |-----------------|---------------------------------------------------|
@@ -30,13 +30,13 @@ It allows users to generate AI-powered text and images, purchase credits securel
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 🔗 **https://neura-chat-frontend.vercel.app**
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 ### Chat Interface
 <img width="1363" height="602" alt="Screenshot 2025-11-19 171033" src="https://github.com/user-attachments/assets/5a2700e3-b251-47d3-a268-cb03d5d7a198" />
@@ -48,7 +48,7 @@ It allows users to generate AI-powered text and images, purchase credits securel
 
 ---
 
-## 📚 About
+##  About
 
 NeuraChat integrates **AI text generation, AI image creation, secure payments, and user authentication**  
 to deliver a complete, production-ready AI chatbot platform.  
@@ -56,7 +56,7 @@ It demonstrates full-stack development skills, API integration, and modern UI/UX
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Jagrit**    
 Full-Stack Developer • AI & Web Development Enthusiast
